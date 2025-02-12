@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Lugrion]!
+# 👋 Hi, I'm Lugrion!
 
 🚀 FullStack Developer | 🔧 Problem Solver | 💡 Tech Enthusiast
 
